@@ -11,5 +11,5 @@ Running the container
 Gtk: cannot open display: :0
 ---
 
-`xhost local:root`
+`xhost local:root`  
 source: https://github.com/jessfraz/dockerfiles/issues/4
